@@ -1,4 +1,4 @@
-# Gatsby Blog App
+# Authentication App
 
 <a href="https://nextjs-authentication-mauve.vercel.app/auth" target="_blank">Authentication Demo</a>
 
